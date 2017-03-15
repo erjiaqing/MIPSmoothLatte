@@ -1,0 +1,370 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\modeltech_10.1a\examples
+T_opt
+V_lf<WV8?VTzcH6E@@;Jcm3
+04 4 4 work MEWB fast 0
+=1-0800276f36fd-58c6b7ee-e8-778
+Z1 o-quiet -auto_acc_if_foreign -work work
+n@_opt
+Z2 OE;O;10.1a;51
+Z3 dC:\modeltech_10.1a\examples
+T_opt1
+VOS3PmB7_Mm0WULU6iKXaX1
+04 5 4 work dm_4k fast 0
+=1-0800276f36fd-58c752f3-2b8-454
+R1
+n@_opt1
+R2
+valu
+V=>>0zXZ86Y::F<Z7E=ozS2
+r1
+31
+IFZmmY:MazN4o=lNQ_2>[;3
+Z4 dC:\SmoothLatte
+w1489414920
+8C:/SmoothLatte/alu.v
+FC:/SmoothLatte/alu.v
+L0 2
+Z5 OE;L;10.1a;51
+Z6 o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+!s100 m4N[a5QG0GaDi>k^m0MCU0
+!s90 -reportprogress|300|-work|work|-vopt|C:/SmoothLatte/alu.v|
+!s108 1489416300.944000
+!s107 ctrl_encode_def.v|C:/SmoothLatte/alu.v|
+!i10b 1
+!s85 0
+vctrl
+VdPcdL]ElYF]IgDQfn@5b[1
+r1
+31
+IVg@>C0gAog7_gFUjDl_EU2
+R4
+w1489456509
+8C:/SmoothLatte/ctrl.v
+FC:/SmoothLatte/ctrl.v
+L0 29
+R5
+R6
+!s90 -reportprogress|300|-work|work|-vopt|C:/SmoothLatte/ctrl.v|
+!s100 YafneKOn@ELa:Y@^[gE6d3
+!s108 1489456513.225000
+!s107 global_def.v|instruction_def.v|ctrl_encode_def.v|C:/SmoothLatte/ctrl.v|
+!i10b 1
+!s85 0
+vdm_4k
+VlUg:faYC>o30KMT7h4QP91
+r1
+31
+I1c0WTKOYnM17b=5L5Ik]k3
+R4
+w1489144656
+8C:/SmoothLatte/dm.v
+FC:/SmoothLatte/dm.v
+L0 10
+R5
+R6
+!s100 hnA2cjPb19IWL]eB]43W`1
+!s90 -reportprogress|300|-work|work|-vopt|C:/SmoothLatte/dm.v|
+!s108 1489416301.254000
+!s107 global_def.v|C:/SmoothLatte/dm.v|
+!i10b 1
+!s85 0
+vEXME
+V^BWe^Z`fe<X_DHUEXR1G?0
+r1
+31
+IOHo7:7mJYCRMI_ObH`g7D1
+R4
+w1489455713
+8C:/SmoothLatte/EXME.v
+FC:/SmoothLatte/EXME.v
+L0 1
+R5
+R6
+n@e@x@m@e
+!s90 -reportprogress|300|-work|work|-vopt|C:/SmoothLatte/EXME.v|
+!s100 ^fH3bDVSI07z^kbFia;ij2
+!s108 1489455822.993000
+!s107 C:/SmoothLatte/EXME.v|
+!i10b 1
+!s85 0
+vEXT
+VkP?W4T^9d29_a?HHBFR]61
+r1
+31
+InFR6N]]H>`VhABh8Vn9g83
+R4
+w1489054627
+8C:/SmoothLatte/EXT.v
+FC:/SmoothLatte/EXT.v
+L0 7
+R5
+R6
+n@e@x@t
+!s100 PhkPJXA@>OEoZ@6Od?@9i2
+!s90 -reportprogress|300|-work|work|-vopt|C:/SmoothLatte/EXT.v|
+!s108 1489416301.304000
+!s107 ctrl_encode_def.v|C:/SmoothLatte/EXT.v|
+!i10b 1
+!s85 0
+vflopr
+IY<6@<2]DiOf1?C5cQLUAK3
+V]P_f@>=6G=?GDdBCzB=NS3
+R4
+w1489070838
+8C:/SmoothLatte/flopr.v
+FC:/SmoothLatte/flopr.v
+L0 9
+R5
+r1
+31
+R6
+!s100 nHVDD;W2Vk5;ZfU>kF>>:2
+!s90 -reportprogress|300|-work|work|-vopt|C:/SmoothLatte/flopr.v|
+!s108 1489416301.384000
+!s107 C:/SmoothLatte/flopr.v|
+!i10b 1
+!s85 0
+vIDEX
+V=9ni<`Q@f5MbNDMic0V0E0
+r1
+31
+IO6XUR1Uf`U[0P`4<ZG=Q=0
+R4
+w1489457693
+8C:/SmoothLatte/IDEX.v
+FC:/SmoothLatte/IDEX.v
+L0 1
+R5
+R6
+n@i@d@e@x
+!i10b 1
+!s85 0
+!s90 -reportprogress|300|-work|work|-vopt|C:/SmoothLatte/IDEX.v|
+!s100 lUK<T3@LHRZI;k4YPCRKA1
+!s108 1489457696.096000
+!s107 C:/SmoothLatte/IDEX.v|
+vIFID
+Vj]N0oKbJ3WFbioX_a[_C@0
+r1
+31
+I;C6LFBj;b@hjak3NhVV4K2
+R4
+w1489416360
+8C:/SmoothLatte/IFID.v
+FC:/SmoothLatte/IFID.v
+L0 1
+R5
+R6
+n@i@f@i@d
+!s90 -reportprogress|300|-work|work|-vopt|C:/SmoothLatte/IFID.v|
+!s100 [O_k``^Pm?ReQ21FQecmU2
+!s108 1489416636.346000
+!s107 C:/SmoothLatte/IFID.v|
+!i10b 1
+!s85 0
+vim_4k
+Vhm4QlzBNU6BUKz2zmKZ4^0
+r1
+31
+I4[In[T?fmfoB[4_l`HTGX2
+R4
+w1489152379
+8C:/SmoothLatte/im.v
+FC:/SmoothLatte/im.v
+L0 8
+R5
+R6
+!s100 XbWEiPRzE:Y4Ceb2AzIUM0
+!s90 -reportprogress|300|-work|work|-vopt|C:/SmoothLatte/im.v|
+!s108 1489416301.505000
+!s107 C:/SmoothLatte/im.v|
+!i10b 1
+!s85 0
+vIR
+I^8L1j<Z@=LVS<0IHfiJkC1
+V7n6aWWUZMicJz5=_LfKVL3
+R4
+w1489218475
+8C:/SmoothLatte/IR.v
+FC:/SmoothLatte/IR.v
+L0 7
+R5
+r1
+31
+R6
+n@i@r
+!s100 U`KW1Tc[@__<diAOTf]A70
+!s90 -reportprogress|300|-work|work|-vopt|C:/SmoothLatte/IR.v|
+!s108 1489416301.625000
+!s107 C:/SmoothLatte/IR.v|
+!i10b 1
+!s85 0
+vMEWB
+V8W8Z2ZAM;o?>ID^2iKPd^2
+r1
+31
+I=]1J?`?RhiR110YBnCg[h1
+R4
+w1489419712
+8C:/SmoothLatte/MEWB.v
+FC:/SmoothLatte/MEWB.v
+L0 1
+R5
+R6
+n@m@e@w@b
+!s90 -reportprogress|300|-work|work|-vopt|C:/SmoothLatte/MEWB.v|
+!s100 IaJ06nid??d]MKBzcgAfk1
+!s108 1489419715.854000
+!s107 C:/SmoothLatte/MEWB.v|
+!i10b 1
+!s85 0
+vmips
+V^lO[ZOI0I1e8M8GJjI9B:3
+r1
+31
+IZhii5loZnKKSdQWbJ4FB`0
+R4
+w1489457313
+8C:/SmoothLatte/mips.v
+FC:/SmoothLatte/mips.v
+L0 4
+R5
+R6
+!s90 -reportprogress|300|-work|work|-vopt|C:/SmoothLatte/mips.v|
+!s100 >NomHMj7X0BT]3OAAWU@@0
+!s108 1489457327.686000
+!s107 global_def.v|instruction_def.v|ctrl_encode_def.v|C:/SmoothLatte/mips.v|
+!i10b 1
+!s85 0
+vmips_tb
+VHfL@J;=TiSmbe>@j83EoJ0
+r1
+31
+I:VSTR5CzlkF`=GXVH5Ice0
+R4
+w1489414523
+8C:/SmoothLatte/mips_tb.v
+FC:/SmoothLatte/mips_tb.v
+L0 1
+R5
+R6
+!s100 _ckdV_z1X>j^E0b;8BSOT3
+!s90 -reportprogress|300|-work|work|-vopt|C:/SmoothLatte/mips_tb.v|
+!s108 1489416301.775000
+!s107 C:/SmoothLatte/mips_tb.v|
+!i10b 1
+!s85 0
+vmux16
+Ijb;H0Vbbj4G>XcFk64h]Z1
+V`6=HBldE>cXC;m]K0;QI>0
+R4
+Z7 w1489116288
+Z8 8C:/SmoothLatte/mux.v
+Z9 FC:/SmoothLatte/mux.v
+L0 74
+R5
+r1
+31
+Z10 !s108 1489416301.835000
+Z11 !s107 C:/SmoothLatte/mux.v|
+Z12 !s90 -reportprogress|300|-work|work|-vopt|C:/SmoothLatte/mux.v|
+R6
+!s100 J3m125R<CGzA^<gd2cYgF3
+!i10b 1
+!s85 0
+vmux2
+Vo6i7_^HZ>Q_2UK4G24@282
+r1
+31
+IAd:`6imeVfU6aFFQ3DQif2
+R4
+R7
+R8
+R9
+L0 4
+R5
+R10
+R11
+R12
+R6
+!s100 0V0<jCLL_k^Wef05BJ`Cl1
+!i10b 1
+!s85 0
+vmux4
+V4Lc:mOk`>9ofb:m0G5Y2Y0
+r1
+31
+IP^T>8Pz[G[bZ1f2JcV95:0
+R4
+R7
+R8
+R9
+L0 18
+R5
+R10
+R11
+R12
+R6
+!s100 <c7H_zeeG[nUT@fGNjQ_N2
+!i10b 1
+!s85 0
+vmux8
+Il6b^WgiKdjbjReGIFizh^3
+VOh>X<_n?620Z_^H7^I9KH2
+R4
+R7
+R8
+R9
+L0 43
+R5
+r1
+31
+R10
+R11
+R12
+R6
+!s100 HHBl@TdnD?k3:cb7C1BER1
+!i10b 1
+!s85 0
+vPC
+ISUJ3KlfJ4R:nGm@3WR]=a0
+VzEEnUfoPQU8T73<bdM4Ol0
+R4
+w1489134001
+8C:/SmoothLatte/PC.v
+FC:/SmoothLatte/PC.v
+L0 9
+R5
+r1
+31
+R6
+n@p@c
+!s100 5XO[oP1RAU6HQR2UI5ReC2
+!s90 -reportprogress|300|-work|work|-vopt|C:/SmoothLatte/PC.v|
+!s108 1489416301.975000
+!s107 C:/SmoothLatte/PC.v|
+!i10b 1
+!s85 0
+vRF
+V>m8H_>Z_GWe1OmYLG6niP1
+r1
+31
+IIVUh@daiL`98TU6C2<jdA3
+R4
+w1489133995
+8C:/SmoothLatte/RF.v
+FC:/SmoothLatte/RF.v
+L0 12
+R5
+R6
+n@r@f
+!s100 IDb:Hfkf22zToYHADg_VO0
+!s90 -reportprogress|300|-work|work|-vopt|C:/SmoothLatte/RF.v|
+!s108 1489416300.864000
+!s107 global_def.v|C:/SmoothLatte/RF.v|
+!i10b 1
+!s85 0

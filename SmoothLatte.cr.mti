@@ -1,0 +1,128 @@
+C:/SmoothLatte/mips_tb.v {1 {vlog -work work -vopt C:/SmoothLatte/mips_tb.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module mips_tb
+
+Top level modules:
+	mips_tb
+
+} {} {}} C:/SmoothLatte/global_def.v {1 {vlog -work work -vopt C:/SmoothLatte/global_def.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+
+} {} {}} C:/SmoothLatte/RF.v {1 {vlog -work work -vopt C:/SmoothLatte/MEWB.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module MEWB
+
+Top level modules:
+	MEWB
+
+} {} {}} C:/SmoothLatte/ctrl_encode_def.v {1 {vlog -work work -vopt C:/SmoothLatte/ctrl_encode_def.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+
+} {} {}} C:/SmoothLatte/instruction_def.v {1 {vlog -work work -vopt C:/SmoothLatte/instruction_def.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+
+} {} {}} C:/SmoothLatte/EXT.v {1 {vlog -work work -vopt C:/SmoothLatte/EXT.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module EXT
+
+Top level modules:
+	EXT
+
+} {} {}} C:/SmoothLatte/IDEX.v {1 {vlog -work work -vopt C:/SmoothLatte/IDEX.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module IDEX
+
+Top level modules:
+	IDEX
+
+} {} {}} C:/SmoothLatte/alu.v {1 {vlog -work work -vopt C:/SmoothLatte/alu.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module alu
+
+Top level modules:
+	alu
+
+} {} {}} C:/SmoothLatte/mux.v {1 {vlog -work work -vopt C:/SmoothLatte/mux.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module mux2
+-- Compiling module mux4
+-- Compiling module mux8
+-- Compiling module mux16
+
+Top level modules:
+	mux2
+	mux4
+	mux8
+	mux16
+
+} {} {}} C:/SmoothLatte/MEWB.v {1 {vlog -work work -vopt C:/SmoothLatte/MEWB.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module MEWB
+
+Top level modules:
+	MEWB
+
+} {} {}} C:/SmoothLatte/flopr.v {1 {vlog -work work -vopt C:/SmoothLatte/flopr.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module flopr
+
+Top level modules:
+	flopr
+
+} {} {}} C:/SmoothLatte/IFID.v {1 {vlog -work work -vopt C:/SmoothLatte/IFID.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module IFID
+
+Top level modules:
+	IFID
+
+} {} {}} C:/SmoothLatte/ctrl.v {1 {vlog -work work -vopt C:/SmoothLatte/ctrl.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module ctrl
+
+Top level modules:
+	ctrl
+
+} {} {}} C:/SmoothLatte/im.v {1 {vlog -work work -vopt C:/SmoothLatte/im.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module im_4k
+
+Top level modules:
+	im_4k
+
+} {} {}} C:/SmoothLatte/EXME.v {1 {vlog -work work -vopt C:/SmoothLatte/EXME.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module EXME
+
+Top level modules:
+	EXME
+
+} {} {}} C:/SmoothLatte/mips.v {1 {vlog -work work -vopt C:/SmoothLatte/mips.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module mips
+
+Top level modules:
+	mips
+
+} {} {}} C:/SmoothLatte/dm.v {1 {vlog -work work -vopt C:/SmoothLatte/dm.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module dm_4k
+
+Top level modules:
+	dm_4k
+
+} {} {}} C:/SmoothLatte/IR.v {1 {vlog -work work -vopt C:/SmoothLatte/IR.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module IR
+
+Top level modules:
+	IR
+
+} {} {}} C:/SmoothLatte/PC.v {1 {vlog -work work -vopt C:/SmoothLatte/PC.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module PC
+
+Top level modules:
+	PC
+
+} {} {}}
